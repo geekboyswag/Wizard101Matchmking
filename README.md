@@ -32,3 +32,6 @@ Steves-iMac-2:~ justinbattles$ cd /Users/justinbattles/Desktop/untitled\ folder\
 Now press enter. After you do that type in the following: "java -jar Matchmaking.jar" and press enter.
 Then follow the instructions to correctly use the program.
 
+Please report any problems here - https://github.com/justin393/Wizard101Matchmking/issues
+
+This will help me organize issues and get through them efficiently

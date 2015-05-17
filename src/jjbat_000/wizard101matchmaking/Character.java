@@ -8,7 +8,6 @@ public class Character {
 	private int rank;
 	private int level;
 	private int name;
-	//private Main main;
 
 	public QueueType type = QueueType.DEFAULT;
 

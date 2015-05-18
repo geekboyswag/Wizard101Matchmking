@@ -27,7 +27,7 @@ When it's done place it in the same folder on your desktop with Matchmaking.jar 
 If you are using Mac it's a little more complicated since I'm not the best with Mac. Open Terminal (Launchpad > others > terminal) now type in "cd " (note the space after cd) DO NOT PRESS ENTER! Drag the folder on your desktop into the terminal. It should now look like this
 
 Last login: Sun May 17 18:47:56 on ttys001
-Steves-iMac-2:~ justinbattles$ cd /Users/justinbattles/Desktop/untitled\ folder\ 3 
+name-2:~ name$ cd /Users/name/Desktop/untitled\ folder\ 3 
 
 Now press enter. After you do that type in the following: "java -jar Matchmaking.jar" and press enter.
 Then follow the instructions to correctly use the program.

@@ -13,7 +13,7 @@ In order to make matchmaking faster it will only compare so many opponents, or r
 
 How to use:
 
-First things first. If you don't have Java you will need to download and install it at: java.com
+First things first. If you don't have Java you will need to download and install it at: https://java.com/en/
 
 Download this: http://www.mediafire.com/download/daov2hd07hbp164/Matchmaking.jar
 All that is, is the compiled version of the code you can see above, it just let's you run it on your computer

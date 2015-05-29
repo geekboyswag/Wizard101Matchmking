@@ -22,7 +22,7 @@ Once you have downloaded it, make a new folder on your desktop, and place the Ma
 
 Now we are going to create the script to run it
 
-If you are using Windows doanload this batch file - http://www.mediafire.com/download/fwc9mjkgi3vnt70/Start.bat
+If you are using Windows doanload this batch file - http://www.mediafire.com/view/fwc9mjkgi3vnt70/Start.bat
 
 When it's done place it in the same folder on your desktop with Matchmaking.jar in it. After you do that, you are done. Simply double click Start.bat and follow the instructions to use the program.
 

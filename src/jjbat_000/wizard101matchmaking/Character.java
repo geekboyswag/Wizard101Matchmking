@@ -8,12 +8,32 @@ public class Character {
 	private int rank;
 	private int level;
 	private int name;
+	//private Main main;
+	public int maxNoviceCrit = 10;
+	public int maxApprenticeCrit = 10;
+	public int maxInitiateCrit = 20;
+	public int maxJourneymanCrit = 20;
+	public int maxAdeptCrit = 60;
+	public int maxMagusCrit = 80;
+	public int maxMasterCrit = 100;
 
 	public QueueType type = QueueType.DEFAULT;
 
 	public Character(int name, int critical, int rank, int level) {
 		setName(name);
-		setCritical(critical);
+		if (level < 10) {
+			setCritical(maxApprenticeCrit);
+		} else if (level > 10 && level < 20) {
+			setCritical(maxInitiateCrit);
+		} else if (level > 20 && level < 30) {
+			setCritical(maxJourneymanCrit);
+		} else if (level > 30 && level < 40) {
+			setCritical(maxMagusCrit);
+		} else if (level > 40  && level <= 49) {
+			setCritical(maxMasterCrit);
+		} else {
+			setCritical(critical);
+		}
 		setRank(rank);
 		setLevel(level);
 	}
